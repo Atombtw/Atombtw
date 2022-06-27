@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sea Vortex
+# Hi 👋, I'm Muharrem Rahat
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/728360891644641303 )](https://discord.com/channels/573203148747833344/802655853638451220) 
 
