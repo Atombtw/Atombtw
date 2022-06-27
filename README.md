@@ -16,7 +16,7 @@
 🔗 &nbsp;**Database**
 <p align="left">
 <a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-2019" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/msql-458152.png" alt="mssql" width="60" height="60"/> </a>
- <a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/sqlite-282687.png" alt="sqlite" width="60" height="60"/> </a>
+ <a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/sqlite-282687.png" alt="sqlite" width="75" height="75"/> </a>
  <hr /> 
  
 🔗 &nbsp; **Software Languages**
