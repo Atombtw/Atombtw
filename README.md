@@ -15,7 +15,7 @@
 
 🔗 &nbsp;**Database**
 <p align="left">
-<a href="https://www.mongodb.com" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3629020-3030245.png" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-2019" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/msql-458152.png" alt="mssql" width="40" height="40"/> </a>
  <hr /> 
  
 🔗 &nbsp; **Software Languages**
