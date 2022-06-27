@@ -1,35 +1,6 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Atombtw 
-Atombtw
-/
-Atombtw
-Public
-forked from SeaVortex/SeaVortex
-Code
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Atombtw/README.md
-@SeaVortex
-SeaVortex Update README.md
-Latest commit 37627bb on 11 Apr
- History
- 1 contributor
-34 lines (28 sloc)  2.92 KB
-
 # Hi 👋, I'm Sea Vortex
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/728360891644641303 )](https://discord.com/users/728360891644641303) 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/728360891644641303 )](https://discord.com/channels/573203148747833344/802655853638451220) 
 
 <p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=seavortex&theme=dark&show_icons=true&locale=en&layout=compact" alt="SeaVortex"  /></p><p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=SeaVortex&theme=dark&show_icons=true&locale=en" alt="SeaVortex"  ></p>
 <hr />
@@ -61,16 +32,3 @@ Latest commit 37627bb on 11 Apr
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="visualstudio" width="40" height="40"/> </a>
 <a href="https://nodejs.org/en/" target="_blank"> <img src="https://www.pikpng.com/pngl/b/430-4309640_js-logo-nodejs-logo-clipart.png" alt="visualstudio" width="40" height="40"/> </a>  
-New Atombtw/Atombtw is now a special repository: its README.md will appear on your profile!
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
