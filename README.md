@@ -1,6 +1,6 @@
 # Hi 👋, I'm Muharrem Rahat
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/728360891644641303 )](https://discord.com/channels/573203148747833344/802655853638451220) 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/728360891644641303 )](https://discord.com/channels/@me) 
 
 <p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=seavortex&theme=dark&show_icons=true&locale=en&layout=compact" alt="SeaVortex"  /></p><p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=SeaVortex&theme=dark&show_icons=true&locale=en" alt="SeaVortex"  ></p>
 <hr />
