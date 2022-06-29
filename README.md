@@ -13,7 +13,7 @@
 </br><img src="https://komarev.com/ghpvc/?username=Atombtw&color=dc143c"/>
 <hr />
 
-🔗 &nbsp;**Databasee**
+🔗 &nbsp;**Database**
 <p align="left">
 <a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-2019" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/msql-458152.png" alt="mssql" width="60" height="60"/> </a>
  <hr /> 
