@@ -31,15 +31,6 @@
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="visualstudio" width="40" height="40"/> </a>
 <a href="https://nodejs.org/en/" target="_blank"> <img src="https://www.pikpng.com/pngl/b/430-4309640_js-logo-nodejs-logo-clipart.png" alt="visualstudio" width="40" height="40"/> </a>
  <a href="https://visualstudio.microsoft.com/en/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/visualstudio-1-1174964.png" alt="visualstudio" width="40" height="40"/> </a>
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Kau-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Kau-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Kau-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Kau-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Kau-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
   
   ##
  
