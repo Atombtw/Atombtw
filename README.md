@@ -31,5 +31,4 @@
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="visualstudio" width="40" height="40"/> </a>
 <a href="https://nodejs.org/en/" target="_blank"> <img src="https://www.pikpng.com/pngl/b/430-4309640_js-logo-nodejs-logo-clipart.png" alt="visualstudio" width="40" height="40"/> </a>
  <a href="https://visualstudio.microsoft.com/en/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/visualstudio-1-1174964.png" alt="visualstudio" width="40" height="40"/> </a>
-
-    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
