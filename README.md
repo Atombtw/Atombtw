@@ -1,4 +1,4 @@
-# Hi 👋, I'm Muharrem Rahat
+# Hi 👋, I'm Atom
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/365115548872212482 )](https://discord.com/users/atombtw#2658) 
 
