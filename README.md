@@ -7,7 +7,7 @@
 
 🔗 &nbsp;**Contact with me**
 <p align="left">
-<a href="https://discord.gg/ud7vnGd" target"blank_"><img src="https://img.shields.io/badge/Sea Team%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.gg/calixell" target"blank_"><img src="https://img.shields.io/badge/Sea Team%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://open.spotify.com/user/khdpmt5yinktmfujo1gsgax2b" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://www.instagram.com/atombtw/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 </br><img src="https://komarev.com/ghpvc/?username=Atombtw&color=dc143c"/>
@@ -32,8 +32,3 @@
   
   ##
  
-<div> 
- 
-  ![snake gif](https://github.com/atombtw/atombtw/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
