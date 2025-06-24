@@ -16,6 +16,7 @@
 🔗 &nbsp;**Database**
 <p align="left">
 <a href="#" target="_blank"> <img src="https://static.cdnlogo.com/logos/m/21/microsoft-sql-server.svg" alt="css" width="40" height="40"></a>
+ <a href="#" target="_blank"> <img src="https://static.cdnlogo.com/logos/m/47/mysql.svg" alt="css" width="40" height="40"></a>
  <hr /> 
  
 🔗 &nbsp; **Software Languages**
