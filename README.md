@@ -15,7 +15,7 @@
 
 🔗 &nbsp;**Database**
 <p align="left">
-<a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-2019" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/msql-458152.png" alt="mssql" width="60" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://static.cdnlogo.com/logos/m/21/microsoft-sql-server.svg" alt="css" width="40" height="40"></a>
  <hr /> 
  
 🔗 &nbsp; **Software Languages**
