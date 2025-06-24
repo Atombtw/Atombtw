@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/067d1f5f-b25f-43b0-8879-d97eefa7b2b7)# Hi 👋, I'm Atom
+# Hi 👋, I'm Atom
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/365115548872212482 )](https://discord.com/users/atombtw#2658) 
 
