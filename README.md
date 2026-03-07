@@ -3,7 +3,6 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/365115548872212482 )](https://discord.com/users/atombtw#2658) 
 
 <p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Atombtw&theme=radical&show_icons=true&locale=en&layout=compact" alt="Atombtw"  /></p>
-<hr />
 
 🔗 &nbsp;**Contact with me**
 <p align="left">
