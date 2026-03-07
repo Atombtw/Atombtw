@@ -26,13 +26,16 @@
 <a href="#" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/csharp-1-1175241.png" alt="css" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://static.cdnlogo.com/logos/j/44/javascript.svg" alt="css" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://static.cdnlogo.com/logos/s/90/sass.svg" alt="css" width="40" height="40" ></a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dart_logo.png/512px-Dart_logo.png?_=20220718193800" alt="css" width="40" height="40" ></a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/64px-Flutter_logo.svg.png?_=20230821075714" alt="css" width="40" height="40"></a>
  
  <hr />
  
 🔗 &nbsp;**Programs**
 <p align="left">
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="visualstudio" width="40" height="40"/> </a>
- <a href="https://visualstudio.microsoft.com/en/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/visualstudio-1-1174964.png" alt="visualstudio" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="visualstudio" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/visualstudio-1-1174964.png" alt="visualstudio" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/512px-Android_Studio_Icon_%282014-2019%29.svg.png?_=20210301045443" alt="androidstudio" width="40" height="40" /></a>
   
   ##
  
