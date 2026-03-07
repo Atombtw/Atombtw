@@ -27,7 +27,7 @@
 <a href="#" target="_blank"> <img src="https://static.cdnlogo.com/logos/j/44/javascript.svg" alt="css" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://static.cdnlogo.com/logos/s/90/sass.svg" alt="css" width="40" height="40" ></a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dart_logo.png/512px-Dart_logo.png?_=20220718193800" alt="css" width="40" height="40" ></a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/64px-Flutter_logo.svg.png?_=20230821075714" alt="css" width="40" height="40"></a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flutter_logo.svg" alt="css" width="40" height="40"></a>
  
  <hr />
  
