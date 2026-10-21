@@ -1,4 +1,4 @@
-# Hi 👋, I'm Atom
+# Hi 👋, I'm Muharrem
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/365115548872212482 )](https://discord.com/users/atombtw#2658) 
 
@@ -9,8 +9,8 @@
 <p align="left">
 <a href="https://discord.gg/calixell" target"blank_"><img src="https://img.shields.io/badge/Sea Team%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://open.spotify.com/user/khdpmt5yinktmfujo1gsgax2b" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-<a href="https://www.instagram.com/atombtw/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-</br><img src="https://komarev.com/ghpvc/?username=Atombtw&color=dc143c"/>
+<a href="https://www.instagram.com/rht.muharrem/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+</br><img src="https://komarev.com/ghpvc/?username=rht-muharrem&color=dc143c"/>
 <hr />
 
 🔗 &nbsp;**Database**
